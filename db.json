@@ -1,0 +1,41 @@
+{
+  "devices":
+    {
+      "servers":
+        [
+          {
+            "name": "server1",
+            "IP": "192.168.1.100",
+            "Desc": "dns server"
+          },
+          {
+            "name": "server2",
+            "IP": "192.168.1.200",
+            "Desc": "dns server 2"
+          },
+          {
+            "name": "server3",
+            "IP": "192.168.1.10",
+            "Desc": "mail server"
+          }
+        ],
+      "network-devices":
+        [
+            {
+              "name": "switch1",
+              "IP": "192.168.0.1",
+              "Desc": "core switch"
+            },
+            {
+              "name": "switch2",
+              "IP": "192.168.0.2",
+              "Desc": "core switch 2"
+            },
+            {
+              "name": "router1",
+              "IP": "192.168.0.254",
+              "Desc": "core router"
+            }
+        ]
+    }
+}
