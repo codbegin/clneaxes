@@ -1,6 +1,4 @@
 {
-  "devices":
-    {
       "servers":
         [
           {
@@ -37,5 +35,4 @@
               "Desc": "core router"
             }
         ]
-    }
 }
