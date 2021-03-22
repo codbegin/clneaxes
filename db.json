@@ -2,19 +2,16 @@
       "servers":
         [
           {
-            "id": 1,
             "name": "server1",
             "IP": "192.168.1.100",
             "Desc": "dns server"
           },
           {
-            "id": 2,
             "name": "server2",
             "IP": "192.168.1.200",
             "Desc": "dns server 2"
           },
           {
-            "id": 3,
             "name": "server3",
             "IP": "192.168.1.10",
             "Desc": "mail server"
@@ -23,19 +20,16 @@
       "network-devices":
         [
             {
-              "id": 1,
               "name": "switch1",
               "IP": "192.168.0.1",
               "Desc": "core switch"
             },
             {
-              "id": 2,
               "name": "switch2",
               "IP": "192.168.0.2",
               "Desc": "core switch 2"
             },
             {
-              "id": 3,
               "name": "router1",
               "IP": "192.168.0.254",
               "Desc": "core router"
