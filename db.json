@@ -2,6 +2,7 @@
       "servers":
         [
           {
+            "id": 1,
             "name": "server1",
             "IP": "192.168.1.100",
             "Desc": "dns server"
